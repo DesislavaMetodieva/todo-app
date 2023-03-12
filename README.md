@@ -19,7 +19,7 @@ Basic knowledge of React JS and Express JS
 
 ## Screenshot
 
-![React App](https://user-images.githubusercontent.com/82023025/224541589-2e5ff0b6-0bb2-46ad-a91e-add1cbe5349b.png)
+![React App (1)](https://user-images.githubusercontent.com/82023025/224541698-a66a723f-f643-492c-9c4f-a37c0d06db0c.png)
 
 ### Usage
 
